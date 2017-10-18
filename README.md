@@ -29,9 +29,14 @@ python --version
 ```
 cd [location]
 ```
-> Replace `[location]` with wherever you saved it (Desktop, Documents, etc). For example, `cd Desktop`
+> Replace `[location]` with wherever you saved it (Desktop, Documents, etc). For example,
+```
+cd Desktop
+```
 
 > 6. Now, type the following.
 ```
 python password.py
 ```
+
+> 7. Follow the prompts, and there's your password! Have fun!
