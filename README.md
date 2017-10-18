@@ -1,4 +1,4 @@
-# Secret Password Generator
+# Secret Password Generator ![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg) ![python build](https://img.shields.io/pypi/pyversions/Django.svg) ![license gnu](https://img.shields.io/badge/license-GNU-blue.svg) [![HitCount](http://hits.dwyl.io/LearnPythonEasy/SecretPasswordGenerator.svg)](http://hits.dwyl.io/LearnPythonEasy/SecretPasswordGenerator)
 
 ## Introduction
 
