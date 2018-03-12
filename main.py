@@ -26,11 +26,18 @@ while True:
 
     response = input('Would you like another password? y or n: ')
     if response == 'n':
-        print('')
-        print('')
-        print('Thank you for using the Secret Password Generator')
-        print('Created by Nate - http://github.com/ACA30')
-        print('License can be found at: https://github.com/LearnPythonEasy/SecretPasswordGenerator/blob/master/LICENSE')
-        print('')
-        print('')
+            print('')
+            print('')
+            print('Thank you for using the Secret Password Generator')
+            print('Created by Nate - http://github.com/ACA30')
+            print('License can be found at: https://github.com/LearnPythonEasy/SecretPasswordGenerator/blob/master/LICENSE')
+            print('')
+            print('')
+            break
+    if response != 'y':
+        print('Something went wrong...')
+        print('Exiting...')
+        print('Exit Code 937')
         break
+# © 2018 LearnPythonEasy
+# Nathaniel B.
